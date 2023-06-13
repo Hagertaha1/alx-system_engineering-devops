@@ -1,0 +1,2 @@
+#!/bin/bash
+ls iacta | find -n 3
